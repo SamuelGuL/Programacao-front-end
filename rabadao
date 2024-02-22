@@ -9,9 +9,16 @@
 
     <h1>Capuz da Morte Rabadao</h1>
     <p>rabadao novo(bullshit)</p>
-    <img src="Downloads/rabadon.jpeg" alt="capuz da morte rabadao">
+    <img src="https://pm1.aminoapps.com/8346/26188e18709e6d42870e96f1a91049851df8fbe8r1-512-512v2_00.jpg" alt="capuz da morte rabadao">
     <p>rabadao antigo (FODA)</p>
-    <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Rabadon%27s_Deathcap_item_old.png/revision/latest/smart/width/250/height/250?cb=20201016200714" alt="capuz da morte rabadao">
+    <img src="https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Rabadon%27s_Deathcap_item_old.png/revision/latest/smart/width/250/height/250?cb=20201016200714" height="500px">
+
+    <ul>
+        <li>Pagina Inicial</li>
+        <li>Sobre</li>
+        <li>Contato</li>
+
+    </ul>
 
 </body>
 </html>
