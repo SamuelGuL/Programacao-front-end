@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(84, 25, 107);
+    color: rgb(15, 155, 155);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 30px;
+    text-align: center;
+}
+
+header{
+    background-color: crimson;
+    color: beige;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+    padding: 5;
+}
+nav{
+    color: blueviolet;
+    text-decoration: aqua;
+}
