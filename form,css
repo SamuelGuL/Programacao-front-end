@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label{
+    margin: 5fr 0;
+    padding: 5px;
+    width: 300;
+}
+
+button{
+    padding: 8px;
+    background-color: aqua;
+    color: bisque;
+}
