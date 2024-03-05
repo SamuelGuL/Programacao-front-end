@@ -22,3 +22,39 @@
 
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tiao</title>
+</head>
+<body>
+    <header><h1>TIAO</h1>
+    </header>
+    <h3>"Só existe uma forma de tirar está carta de mim"
+        -Mohammed Avdol (モハメド・アヴドゥル Mohamedo Avuduru).</h3>
+    <p>Esta carta é bastante eficaz para saber se tem ou nao tem CARBURADOR.</p>
+    <img src="tiao.jpg" height="500px">
+    <section>
+    <img src="chicletemerda.jpg" alt="">
+    </section>
+    <section>
+        <h1>Chiclete raid pra fazer leg press com 3 toneladas</h1>
+        <h3>OXI -Jean Pierre Polnareff  (ジャン・ピエール・ポルナレフ Jan Piēru Porunarefu)
+        </h3>
+    </section>
+
+
+    <ul>
+        <li>Página Inicial</li>
+        <li>Sobre</li>
+        <li>Contato</li>
+    </ul>
+    <footer><p>+100 Social crédits</p></footer>
+</body>
+</html>
+ 
