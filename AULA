@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>rabadon</title>
+</head>
+<body>
+    <header>
+        <Title>Matriculass</Title>
+
+    </header>
+    
+    <ul>
+        <li>Pagina Inicial</li>
+        <li>Sobre</li>
+        <li>Contato</li>
+
+    </ul>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tiao</title>
+</head>
+<body>
+    
+    <footer><p>Samel</p></footer>
+</body>
+</html>
+ 
